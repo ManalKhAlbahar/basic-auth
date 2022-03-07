@@ -11,6 +11,5 @@ basic-auth
 - in your browser open "http://localhost:3000/" to see the home page that loads (Home Route)
 -  in your browser open "http://localhost:3000/signin" 
 -  in your browser open "http://localhost:3000/singup" 
--  
 - [PR](https://github.com/ManalKhAlbahar/basic-auth/pull/1).
 - [Github actions](https://github.com/ManalKhAlbahar/basic-auth/actions).
